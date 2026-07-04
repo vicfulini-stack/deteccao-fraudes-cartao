@@ -1,0 +1,17 @@
+# Pastas de ambiente e caches
+venv/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+
+*.csv
+*.json
+
+
+.env
+.secret
+*.key
+
+# Arquivos do VS Code
+.vscode/
